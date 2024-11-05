@@ -1,10 +1,8 @@
 # Pokemon Cards 
 
-# Aplicação com o tema LIGHT:
+# Aplicação com o tema LIGHT e DARK:
 <img src="./src/images/pokemon-cards-light.png">
 <img src="./src/images/pokemon-cards-dark.png">
-
-# Aplicação com o tema DARK:
 <img src="./src/images/pokemon-infos-light.png">
 <img src="./src/images/pokemon-infos-dark.png">
 
