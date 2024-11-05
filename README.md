@@ -3,10 +3,12 @@
 # Aplicação com o tema LIGHT:
 <img src="./src/images/pokemon-cards-light.png">
 <img src="./src/images/pokemon-cards-dark.png">
+
+# Aplicação com o tema DARK:
 <img src="./src/images/pokemon-infos-light.png">
 <img src="./src/images/pokemon-infos-dark.png">
 
-# Aplicação com o tema DARK:
+
 
 # Propósito da aplicação
 - O propósito da aplicação é o tratamento de dados vindos de uma API da melhor forma possível conciliando performance na requisição desses dados e a experiência do usuário ao navegar pela aplicação.
