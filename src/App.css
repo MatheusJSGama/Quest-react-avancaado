@@ -1,0 +1,17 @@
+.app{
+  width: 100%;
+  padding: 5px;
+  min-height: inherit;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.light {
+  background-image: linear-gradient(to left bottom, #d4d436, #83d667, #1dce9a, #00c0bf, #10adcd);
+}
+
+.dark{
+  background-image: radial-gradient(circle, #051937, #0a395e, #075d85);
+}
